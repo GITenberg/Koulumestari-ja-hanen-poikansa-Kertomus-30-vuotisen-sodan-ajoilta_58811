@@ -1,11 +1,16 @@
 _repo: Koulumestari-ja-hanen-poikansa-Kertomus-30-vuotisen-sodan-ajoilta_58811
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Caspari, Karl Heinrich
     gutenberg_agent_id: '50165'
     url: http://www.gutenberg.org/2009/agents/50165
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58811#Koulumestari-ja-hanen-poikansa-Kertomus-30-vuotisen-sodan-ajoilta
 gutenberg_issued: '2019-02-02'
 gutenberg_type: Text
 identifiers:
